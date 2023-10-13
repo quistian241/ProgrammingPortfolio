@@ -3,12 +3,14 @@
 _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 ---
 > 1. Explaing How Alonzo Draws a House
-> [![Alonzo Draws a House](image.png)](https://youtu.be/tWW9FCE6wGY?si=NTRfDamZzI0V9IZH)
-> 2. 
+> [![Alonzo Draws a House](EDS124BR-Vid-1-Thunmbnail.png)](https://youtu.be/tWW9FCE6wGY?si=NTRfDamZzI0V9IZH)
+>
+> 2. Using Repeats to Dance
+> [![Alonzo Draws a House](EDS124BR-Vid-2-Thumbnail.png)](https://youtu.be/QRnxHfHTsy8?si=mAwSgeTzyF7fvRuJ)
+>
 > 3. 
 > 4. 
 > 5. 
-
 > - other facts...
 
 ```
