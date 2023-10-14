@@ -6,9 +6,10 @@ _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 > [![Alonzo Draws a House](EDS124BR-Vid-1-Thunmbnail.png)](https://youtu.be/tWW9FCE6wGY?si=NTRfDamZzI0V9IZH)
 >
 > 2. Using Repeats to Dance
-> [![Alonzo Draws a House](EDS124BR-Vid-2-Thumbnail.png)](https://youtu.be/QRnxHfHTsy8?si=mAwSgeTzyF7fvRuJ)
+> [![Dancing Guy](EDS124BR-Vid-2-Thumbnail.png)](https://youtu.be/QRnxHfHTsy8?si=mAwSgeTzyF7fvRuJ)
 >
-> 3. 
+> 3. Getting Animals to Move in Loops
+> [![Kangaroo, Grasshopper, Bee](EDS124BR-Vid-3-Thumbnail.png)](https://youtu.be/1g8zHfcfwtU)
 > 4. 
 > 5. 
 > - other facts...
