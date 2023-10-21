@@ -12,9 +12,12 @@ _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 > [![Kangaroo, Grasshopper, Bee](EDS124BR-Vid-3-Thumbnail.png)](https://youtu.be/1g8zHfcfwtU)
 > 4. Nested Loop Mouse
 > [![Cheesed to Meet You](EDS124BR-Vid-4-Thumbnail.png)](https://youtu.be/Upe5gN-uqHs)
-> 5. 
+> 5. Monkey And Bananas Events
+> [![Bananas 4 U?](EDS124BR-Vid-5-Thumbnail.png)](https://youtu.be/ZwcSJioktgA)
+> 6. 
 > - other facts...
 
 ```
 # code block
 ```
+
