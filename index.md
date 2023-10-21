@@ -10,7 +10,8 @@ _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 >
 > 3. Getting Animals to Move in Loops
 > [![Kangaroo, Grasshopper, Bee](EDS124BR-Vid-3-Thumbnail.png)](https://youtu.be/1g8zHfcfwtU)
-> 4. 
+> 4. Getting Animals to Move in Loops
+> [![Cheesed to Meet You](EDS124BR-Vid-4-Thumbnail.png)](https://youtu.be/Upe5gN-uqHs)
 > 5. 
 > - other facts...
 
