@@ -14,10 +14,10 @@ _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 > [![Cheesed to Meet You](EDS124BR-Vid-4-Thumbnail.png)](https://youtu.be/Upe5gN-uqHs)
 > 5. Monkey And Bananas Events
 > [![Bananas 4 U?](EDS124BR-Vid-5-Thumbnail.png)](https://youtu.be/ZwcSJioktgA)
-> 6. 
+> 6. Drawing Shapes Using Variables
+> [![Whip Me Into Shape](EDS124BR-Vid-6-Thumbnail.png)](https://youtu.be/cMLieQ4hPsg)
 > - other facts...
 
 ```
 # code block
 ```
-
