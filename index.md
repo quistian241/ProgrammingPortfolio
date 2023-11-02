@@ -16,8 +16,10 @@ _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 > [![Bananas 4 U?](EDS124BR-Vid-5-Thumbnail.png)](https://youtu.be/ZwcSJioktgA)
 > 6. Drawing Shapes Using Variables
 > [![Whip Me Into Shape](EDS124BR-Vid-6-Thumbnail.png)](https://youtu.be/cMLieQ4hPsg)
+> 7. Catch the Ball Game
+> [![Soccer Ball'n](EDS124BR-Vid-7-Thumbnail.png)](https://youtu.be/4C2vRCJmH7c)
 > - other facts...
 
 ```
-# code block
+# code block 
 ```
