@@ -18,8 +18,12 @@ _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 > [![Whip Me Into Shape](EDS124BR-Vid-6-Thumbnail.png)](https://youtu.be/cMLieQ4hPsg)
 > 7. Catch the Ball Game
 > [![Soccer Ball'n](EDS124BR-Vid-7-Thumbnail.png)](https://youtu.be/4C2vRCJmH7c)
+> 8. Target Practice Game
+> [![Cookie Clicker At Home](EDS124BR-Vid-8-Thumbnail.png)](https://youtu.be/JlipMr59kkU)
 > - other facts...
 
 ```
 # code block 
 ```
+
+
