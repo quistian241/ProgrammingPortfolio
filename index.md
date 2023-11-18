@@ -20,10 +20,11 @@ _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 > [![Soccer Ball'n](EDS124BR-Vid-7-Thumbnail.png)](https://youtu.be/4C2vRCJmH7c)
 > 8. Target Practice Game
 > [![Cookie Clicker At Home](EDS124BR-Vid-8-Thumbnail.png)](https://youtu.be/JlipMr59kkU)
+> 8. Penguin Can-Swim, Old Enough 
+> [![Penguin Swim and Age](EDS124BR-Vid-9-Thumbnail.png)](https://youtu.be/gJBb68ismXQ)
 > - other facts...
 
 ```
 # code block 
 ```
-
 
