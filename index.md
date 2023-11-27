@@ -22,9 +22,13 @@ _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 > [![Cookie Clicker At Home](EDS124BR-Vid-8-Thumbnail.png)](https://youtu.be/JlipMr59kkU)
 > 8. Penguin Can-Swim, Old Enough 
 > [![Penguin Swim and Age](EDS124BR-Vid-9-Thumbnail.png)](https://youtu.be/gJBb68ismXQ)
+> 8. The Alonso Treasure Game 
+> [![Treasure GAme](EDS124BR-Vid-10-Thumbnail.png)](https://youtu.be/KRK1M3Imp-M)
 > - other facts...
 
 ```
 # code block 
 ```
+
+![Alt text](image.png)
 
