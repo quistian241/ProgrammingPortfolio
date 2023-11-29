@@ -24,11 +24,11 @@ _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 > [![Penguin Swim and Age](EDS124BR-Vid-9-Thumbnail.png)](https://youtu.be/gJBb68ismXQ)
 > 8. The Alonso Treasure Game 
 > [![Treasure GAme](EDS124BR-Vid-10-Thumbnail.png)](https://youtu.be/KRK1M3Imp-M)
+> 8. Drawing a Picture With Blocks 
+> [![Funtion Drawing](EDS124BR-Vid-11-Thumbnail.png)](https://youtu.be/QcnCeQNrDGA)
 > - other facts...
 
 ```
 # code block 
 ```
-
-![Alt text](image.png)
 
