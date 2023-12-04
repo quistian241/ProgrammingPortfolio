@@ -20,12 +20,14 @@ _**Selected work from EDS 124BR Teaching Computational Thinking for Everyone**_
 > [![Soccer Ball'n](EDS124BR-Vid-7-Thumbnail.png)](https://youtu.be/4C2vRCJmH7c)
 > 8. Target Practice Game
 > [![Cookie Clicker At Home](EDS124BR-Vid-8-Thumbnail.png)](https://youtu.be/JlipMr59kkU)
-> 8. Penguin Can-Swim, Old Enough 
+> 9. Penguin Can-Swim, Old Enough 
 > [![Penguin Swim and Age](EDS124BR-Vid-9-Thumbnail.png)](https://youtu.be/gJBb68ismXQ)
-> 8. The Alonso Treasure Game 
+> 10. The Alonso Treasure Game 
 > [![Treasure GAme](EDS124BR-Vid-10-Thumbnail.png)](https://youtu.be/KRK1M3Imp-M)
-> 8. Drawing a Picture With Blocks 
+> 11. Drawing a Picture With Blocks 
 > [![Funtion Drawing](EDS124BR-Vid-11-Thumbnail.png)](https://youtu.be/QcnCeQNrDGA)
+> 12. Touring the World Game 
+> [![Letter Country Game](EDS124BR-Vid-12-Thumbnail.png)](https://youtu.be/YlRWp0xrEuM)
 > - other facts...
 
 ```
